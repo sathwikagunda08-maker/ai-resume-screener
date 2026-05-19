@@ -1,0 +1,13 @@
+flask
+PyPDF2
+anthropic
+google-generativeai
+openai
+werkzeug
+python-dotenv
+pdfminer.six
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
